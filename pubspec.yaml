@@ -1,0 +1,64 @@
+name: medicare
+description: A modern medical appointment booking application
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  flutter_svg: ^2.0.10+1
+  intl: ^0.20.2
+  qr_flutter: ^4.1.0
+  flutter_local_notifications: ^19.2.0
+  flutter_stripe: ^11.5.0
+  lottie: ^3.3.1
+  rive: ^0.13.20
+  flutter_3d_choice_chip: ^0.1.4
+  animate_do: ^4.2.0
+  glassmorphism: ^3.0.0
+  shared_preferences: ^2.2.2
+  assets_audio_player: ^3.1.1
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+  cloud_firestore: ^5.6.7
+  firebase_storage: ^12.4.5
+  js: ^0.6.7
+  image_picker: ^1.0.7
+  file_picker: ^10.1.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+
+flutter_native_splash:
+  color: "#0A192F"
+  image: assets/images/logo.png
+  android: true
+  ios: true
+  web: true
+  branding: null
+  background_image: null
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/images/
+    - assets/animations/
+    - assets/icons/
+    - assets/lottie/
+    - assets/audio/
