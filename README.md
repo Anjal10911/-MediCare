@@ -2,7 +2,7 @@
 
 MediCare is a comprehensive, AI-powered digital healthcare application developed using Flutter to revolutionize the way hospitals, patients, and healthcare providers interact. Designed with the vision of creating smart hospitals and seamless healthcare delivery, MediCare transforms traditional, paper-heavy hospital workflows into efficient, automated, and user-friendly digital processes.
 
-###Overview
+##Overview
 
 MediCare serves patients, doctors, and hospital administrators alike, providing a unified platform that supports appointment booking, medical record management, digital check-ins, payment processing, real-time notifications, and intelligent conversational assistance. The app offers a clean and intuitive user interface, starting from a visually appealing splash screen and onboarding flow, guiding users smoothly through secure login or registration.
 
