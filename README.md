@@ -1,7 +1,9 @@
-#MediCare – AI-Driven Smart Healthcare App
+#MediCare AI-Driven Smart Healthcare App
+
 MediCare is a comprehensive, AI-powered digital healthcare application developed using Flutter to revolutionize the way hospitals, patients, and healthcare providers interact. Designed with the vision of creating smart hospitals and seamless healthcare delivery, MediCare transforms traditional, paper-heavy hospital workflows into efficient, automated, and user-friendly digital processes.
 
 ##Overview
+
 MediCare serves patients, doctors, and hospital administrators alike, providing a unified platform that supports appointment booking, medical record management, digital check-ins, payment processing, real-time notifications, and intelligent conversational assistance. The app offers a clean and intuitive user interface, starting from a visually appealing splash screen and onboarding flow, guiding users smoothly through secure login or registration.
 
 Once logged in, users access personalized dashboards tailored to their roles:
@@ -13,6 +15,7 @@ Doctors and hospital staff can access patient data efficiently, view appointment
 Administrators benefit from digitized check-in procedures, paperless management of patient data, and streamlined hospital operations.
 
 ##Key Features
+
 Appointment Booking: Patients can easily find specialists, view profiles, and schedule appointments.
 
 Digital Check-in with QR Code: Patients scan QR codes upon arrival to retrieve records instantly, reducing wait times.
@@ -36,6 +39,7 @@ User Roles & Access: Customized dashboards ensure relevant and secure access.
 Scalable & Secure Architecture: Designed for privacy, data protection, and expanding user base.
 
 ##Why MediCare?
+
 MediCare is crafted to support healthcare leaders who envision technology-enhanced medical environments. By integrating AI, voice recognition, and chatbots, the app enhances:
 
 Efficient hospital workflows and reduced paperwork.
@@ -72,6 +76,7 @@ flutter run
 Configure backend and AI services as per setup instructions.
 
 ##Future Enhancements
+
 Wearable device integration for real-time monitoring.
 
 Telemedicine with live video consultations.
